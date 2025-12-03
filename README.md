@@ -26,8 +26,11 @@ Project Structure
 Technologies Used
 
 1.**Amazon S3**
+
 2.**AWS IAM**
+
 3.**HTML5**
+
 4.**CSS3**
 
 Link URL:
@@ -36,8 +39,11 @@ http://reshmi-s3.s3-website-us-east-1.amazonaws.com
 I Learned:
 
 How to host a static website using AWS S3.
+
 Configuring bucket policies for public access.
+
 Fixing S3 permission errors.
+
 Understanding S3 bucket settings.
 
 
