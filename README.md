@@ -14,9 +14,13 @@ The website files (index.html, style.css, and assets) were uploaded to an S3 buc
 Project Structure
 
 1.index.html
+
 2.style.css
+
 3.Permissions-fix.md
+
 4.Bucket-Policy.md
+
 5.S3-Setup-Steps.md
 
 Technologies Used
